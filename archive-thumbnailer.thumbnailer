@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=archive_thumbnailer
+Exec=archive_thumbnailer %i %o
+MimeType=application/zip;application/vnd.rar;application/x-7z-compressed;application/x-tar;
