@@ -10,7 +10,7 @@ There are two versions. My initial python script for a proof of concept and a C 
 
 Tested successfully with .zip .tar .rar and .7z archive file types.
 
-Theoretically can also work with .cbz .cbr and .c7 file formats, but other programs/thumbnailers support these file types.
+Theoretically can also work with .cbz .cbr and .cb7 file formats, but other programs/thumbnailers support these file types.
 
 Evince for instance handles .cb_ files, but specifically excludes .zip files.
 
